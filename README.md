@@ -25,6 +25,11 @@ Type the command to get the recommended software up and running - the [DB Browse
 ```
 user $ sqlitebrowser
 ```
+Feel free to play around with using the
+```
+plants.sql
+```
+file to create a running database from scratch.
 
 ## check it out and enjoy!
 
